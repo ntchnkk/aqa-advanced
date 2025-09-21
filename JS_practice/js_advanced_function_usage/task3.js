@@ -20,7 +20,7 @@ try {
     console.log('Result:', divide('two', 2));
 } catch (error) {
     console.log("There is an error:", error.message);
-}finally {
+} finally {
     console.log('Operation completed');
 };
 
@@ -28,7 +28,7 @@ try {
     console.log('Result:', divide(10, 2));
 } catch (error) {
     console.log("There is an error:", error.message);
-}finally {
+} finally {
     console.log('Operation completed');
 };
 
@@ -36,6 +36,6 @@ try {
     console.log('Result:', divide(10, 0));
 } catch (error) {
     console.log("There is an error:", error.message);
-}finally {
+} finally {
     console.log('Operation completed');
 };
