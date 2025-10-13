@@ -1,0 +1,2 @@
+npm run prettier_check_all
+npm run eslint_check_all

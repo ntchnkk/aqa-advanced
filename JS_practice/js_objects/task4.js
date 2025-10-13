@@ -1,7 +1,7 @@
 const person = {
-    firstName: 'Ben',
-    lastName: 'Kenobi',
-    age: 35
+  firstName: 'Ben',
+  lastName: 'Kenobi',
+  age: 35,
 };
 
 person.email = 'BenKenobi@starwars.com';
