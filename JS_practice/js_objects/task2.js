@@ -1,7 +1,7 @@
 const book = {
   title: 'Gone with the Wind',
   author: 'Margaret Mitchell',
-  year: 1936
+  year: 1936,
 };
 
 const { title, author } = book;
